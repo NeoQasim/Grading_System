@@ -38,5 +38,3 @@ if (percentage>=0 && percentage <50) {
     console.log('you entered an invalid result');
     
 } 
-//  here is the output    //
-//phir se change kia 
